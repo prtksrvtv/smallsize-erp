@@ -2,8 +2,9 @@
 Python App to manage the invoice processing, inventory management &amp; payment tracking for a small scale enterprise
 Current Users- Prikaway Pvt. Ltd. using this app to conduct their daily business with Sainik School Rewari and Ambikapur
 Please provide me credits if you wish to use my code for your app. Also, if anyone is interested in collaborating on this project feel free to contact me.
+
 How to use the app:
-Use Prikaway.ipynb file as the main file. Upon running the file a window pops up with various options
+Use Jupyter Notebooks to use the app. Run Prikaway.ipynb file as the main file. Upon running, a window pops up with various options
 Chose options as per your required task.
 The app stores and updates data in a SQL database and the one listed in the files is a test db that I created. Kindly update the details if you wish to use it in your app
 I have also supplied the logo file in a PNG format. make sure to change the directory when you are using this code to correctly call the logo file.
